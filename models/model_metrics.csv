@@ -1,0 +1,9 @@
+Model,Metric,Value
+Popularity,MAE,1.5496
+Popularity,RMSE,5.7204
+Popularity,R2,0.8041
+Trending,Accuracy,0.9705
+Top10,Accuracy,0.9601
+Artist Success,MAE,0.0725
+Artist Success,RMSE,1.4774
+Artist Success,R2,0.9803
